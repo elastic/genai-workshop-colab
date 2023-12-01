@@ -4,7 +4,7 @@ Welome to this Elastic GenAI Workshop for Developers.  We'll be using Google Col
 
 ![architecture](images/architecture.jpg)
 
-## To run this labl you will need:
+## To run this lab you will need:
 * a workshop key from your instructor to load the environment variables required to run these notebooks
 * your own Google account to use the free Colab execution environment
 
